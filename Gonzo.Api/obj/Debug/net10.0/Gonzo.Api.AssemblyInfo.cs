@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gonzo.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b94475c8fc522c170c61cb0cf010f2b0cce70a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gonzo.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gonzo.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
