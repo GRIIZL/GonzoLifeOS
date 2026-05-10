@@ -30,7 +30,7 @@ namespace Gonzo.Api.Migrations
                     b.Property<decimal>("Cost")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("CratedAt")
+                    b.Property<DateTime>("CreatedAt")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("Difficulty")
@@ -65,7 +65,7 @@ namespace Gonzo.Api.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("Timesatamp")
+                    b.Property<DateTime>("Timestamp")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

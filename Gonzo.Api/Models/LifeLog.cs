@@ -6,5 +6,5 @@ public class LifeLog
     public string ActivityName { get; set; } = string.Empty;
     public int ImpactScore { get; set; }
     public string Note { get; set; } = string.Empty;
-    public DateTime Timesatamp { get; set; } = DateTime.UtcNow;
+    public DateTime Timestamp { get; set; } = DateTime.UtcNow;
 }

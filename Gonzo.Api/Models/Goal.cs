@@ -8,6 +8,6 @@ public class Goal
     public int Difficulty { get; set; }
     public decimal Cost { get; set; }
     public bool IsCompleted { get; set; }
-    public DateTime CratedAt { get; set; } = DateTime.UtcNow;
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
 }
